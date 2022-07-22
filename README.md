@@ -35,3 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Other Helpful Websites
 
 [RStudio Cloud Primers](https://rstudio.cloud/learn/primers)
+[Kaggle Datasets](https://www.kaggle.com/datasets)
