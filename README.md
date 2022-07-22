@@ -2,6 +2,7 @@
 
 Contributors: [Ryan Aclan](https://github.com/raclan), [Megan Boyle](https://github.com/megbb), [Michelle Chiu](https://github.com/mchiu91)
 
+This website hosts resources for learning R and other miscellaneous coding tips.
 
 ### Markdown
 
