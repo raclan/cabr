@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CAB Lab R Resources!
 
-You can use the [editor on GitHub](https://github.com/mchiu91/cabr/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Contributors: [Ryan Aclan](https://github.com/raclan), [Megan Boyle](https://github.com/megbb), [Michelle Chiu](https://github.com/mchiu91)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
