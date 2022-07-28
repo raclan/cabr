@@ -4,6 +4,16 @@ Contributors: [Ryan Aclan](https://github.com/raclan), [Megan Boyle](https://git
 
 This website hosts resources for learning R and other miscellaneous coding tips.
 
+### Steps to create a repository 
+
+- Visit [github](https://github.com)
+- Sign into your account 
+- In top right corner click on the dropdown menu net to + sign
+- Click new repository 
+- Create a unique name for your repository
+- Add a README file so that you can provide a description to navigate your website 
+- Click create repository 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
