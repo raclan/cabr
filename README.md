@@ -9,13 +9,16 @@ This website hosts resources for learning R and other miscellaneous coding tips.
 - Visit [github](https://github.com)
 - Sign into your account 
 - In top right corner click on the dropdown menu net to + sign
- <img src="Plusgit" class="img-responsive" alt=""> </div>
+ 
+ <img src="Plusgit.png" class="img-responsive" alt=""> </div>
 - Click new repository 
 - Create a unique name for your repository
 - Add a README file so that you can provide a description to navigate your website 
- <img src="READMEgit" class="img-responsive" alt=""> </div>
+
+<img src="READMEgit.png" class="img-responsive" alt=""> </div>
 - Click create repository 
-<img src="Creategit" class="img-responsive" alt=""> </div>
+
+<img src="Creategit.png" class="img-responsive" alt=""> </div>
 
 ### Markdown
 
